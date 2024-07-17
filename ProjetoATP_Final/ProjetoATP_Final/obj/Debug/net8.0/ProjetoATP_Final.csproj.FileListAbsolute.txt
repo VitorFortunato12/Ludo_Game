@@ -1,0 +1,14 @@
+C:\Users\vitor\source\repos\ProjetoATP_Final\ProjetoATP_Final\obj\Debug\net8.0\ProjetoATP_Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitor\source\repos\ProjetoATP_Final\ProjetoATP_Final\obj\Debug\net8.0\ProjetoATP_Final.AssemblyInfoInputs.cache
+C:\Users\vitor\source\repos\ProjetoATP_Final\ProjetoATP_Final\obj\Debug\net8.0\ProjetoATP_Final.AssemblyInfo.cs
+C:\Users\vitor\source\repos\ProjetoATP_Final\ProjetoATP_Final\obj\Debug\net8.0\ProjetoATP_Final.csproj.CoreCompileInputs.cache
+C:\Users\vitor\source\repos\ProjetoATP_Final\ProjetoATP_Final\bin\Debug\net8.0\ProjetoATP_Final.exe
+C:\Users\vitor\source\repos\ProjetoATP_Final\ProjetoATP_Final\bin\Debug\net8.0\ProjetoATP_Final.deps.json
+C:\Users\vitor\source\repos\ProjetoATP_Final\ProjetoATP_Final\bin\Debug\net8.0\ProjetoATP_Final.runtimeconfig.json
+C:\Users\vitor\source\repos\ProjetoATP_Final\ProjetoATP_Final\bin\Debug\net8.0\ProjetoATP_Final.dll
+C:\Users\vitor\source\repos\ProjetoATP_Final\ProjetoATP_Final\bin\Debug\net8.0\ProjetoATP_Final.pdb
+C:\Users\vitor\source\repos\ProjetoATP_Final\ProjetoATP_Final\obj\Debug\net8.0\ProjetoATP_Final.dll
+C:\Users\vitor\source\repos\ProjetoATP_Final\ProjetoATP_Final\obj\Debug\net8.0\refint\ProjetoATP_Final.dll
+C:\Users\vitor\source\repos\ProjetoATP_Final\ProjetoATP_Final\obj\Debug\net8.0\ProjetoATP_Final.pdb
+C:\Users\vitor\source\repos\ProjetoATP_Final\ProjetoATP_Final\obj\Debug\net8.0\ProjetoATP_Final.genruntimeconfig.cache
+C:\Users\vitor\source\repos\ProjetoATP_Final\ProjetoATP_Final\obj\Debug\net8.0\ref\ProjetoATP_Final.dll
